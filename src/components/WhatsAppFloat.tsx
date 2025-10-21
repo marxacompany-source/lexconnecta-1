@@ -11,7 +11,7 @@ const WhatsAppFloat = () => {
         asChild
       >
         <a
-          href="https://wa.me/5561981779025"
+          href="https://wa.me/61981779025"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Fale pelo WhatsApp"

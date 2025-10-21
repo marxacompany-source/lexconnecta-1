@@ -29,7 +29,7 @@ const CTA = () => {
               asChild
             >
               <a
-                href="https://wa.me/5561981779025"
+                href="https://wa.me/61981779025"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
